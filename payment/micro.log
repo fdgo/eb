@@ -1,0 +1,10 @@
+{"level":"error","ts":"2021-04-08T17:53:11.506+0800","caller":"payment/main.go:27","msg":"error loading source consul: Get http://localhost:8500/v1/kv/micro/config?recurse=: dial tcp 127.0.0.1:8500: connect: connection refused"}
+{"level":"error","ts":"2021-04-08T17:53:11.507+0800","caller":"payment/main.go:48","msg":"dial tcp 127.0.0.1:3306: connect: connection refused"}
+{"level":"error","ts":"2021-04-08T17:54:18.344+0800","caller":"payment/main.go:27","msg":"error loading source consul: Get http://localhost:8500/v1/kv/micro/config?recurse=: dial tcp 127.0.0.1:8500: connect: connection refused"}
+{"level":"error","ts":"2021-04-08T17:54:18.345+0800","caller":"payment/main.go:48","msg":"dial tcp 127.0.0.1:3306: connect: connection refused"}
+{"level":"error","ts":"2021-04-09T17:40:39.560+0800","caller":"payment/main.go:27","msg":"error loading source consul: Get http://localhost:8500/v1/kv/micro/config?recurse=: dial tcp 127.0.0.1:8500: connect: connection refused"}
+{"level":"error","ts":"2021-04-09T17:40:39.563+0800","caller":"payment/main.go:48","msg":"dial tcp 127.0.0.1:3306: connect: connection refused"}
+{"level":"error","ts":"2021-04-09T19:29:22.547+0800","caller":"payment/main.go:27","msg":"error loading source consul: Get \"http://localhost:8500/v1/kv/micro/config?recurse=\": dial tcp 127.0.0.1:8500: connect: connection refused"}
+{"level":"error","ts":"2021-04-09T19:29:22.551+0800","caller":"payment/main.go:48","msg":"dial tcp 127.0.0.1:3306: connect: connection refused"}
+{"level":"error","ts":"2021-04-09T19:40:25.317+0800","caller":"payment/main.go:27","msg":"error loading source consul: Get \"http://localhost:8500/v1/kv/micro/config?recurse=\": dial tcp 127.0.0.1:8500: connect: connection refused"}
+{"level":"error","ts":"2021-04-09T19:40:25.318+0800","caller":"payment/main.go:48","msg":"dial tcp 127.0.0.1:3306: connect: connection refused"}
